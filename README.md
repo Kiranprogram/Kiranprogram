@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+i am currently learning full satck devlopement
 
 <!---
 Kiranprogram/Kiranprogram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
